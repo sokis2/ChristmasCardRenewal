@@ -1,0 +1,51 @@
+body{
+    background-image:url('https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20211104_126%2F1636019055225KGoQG_JPEG%2F37154838941267710_310413629.jpg&type=sc960_832');    
+    font-family: 'Single Day', cursive;
+    /* background-repeat: no-repeat;
+    background-size: px;
+    background-position: px; */
+
+}
+    
+.card {
+  text-align:center;
+  margin-bottom: 100px;
+  border: px;
+  padding: px;
+  
+
+
+  /* text-align:center;
+  margin-bottom : 50px;
+  border: 10px solid green;
+  padding: 100px */
+    
+}
+
+#card {
+  display: block;
+  margin: auto;
+  
+}
+/* class. id# */
+
+#btn {
+  display: block;
+  height: 100px;
+  width: 400px;
+  margin: auto;
+  border: ;
+  padding: px;
+}
+
+h1 {
+  font-size: 100px;
+  color: green;
+}
+
+h2 {
+  font-size: 30px;
+  color: red;
+}
+
+
